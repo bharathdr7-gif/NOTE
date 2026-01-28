@@ -1,1 +1,5 @@
 git commands
+
+
+1)to addall - git add --all
+2) to commit-git commit -m" message"
